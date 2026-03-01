@@ -6,8 +6,6 @@ VizRAG AI lets you upload any PDFs and images, chat with them using full vision 
 
 Whether you need a polished career summary with timeline, a detailed product evaluation with design critique and improved UI illustrations, a contract risk analysis, a scientific paper review, or any other type of insights report — simply type your prompt and receive a complete, multi-page PDF with embedded Mermaid diagrams and Flux-generated illustrations.
 
-Built as a high-impact portfolio and Upwork showcase project.
-
 ## ✨ Key Features
 
 - Full multi-modal RAG with vision (chat naturally with PDFs + images)
